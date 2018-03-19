@@ -46,7 +46,6 @@ import work.siro.mod.pvpparticles.classes.SiroQModDebugger;
 import work.siro.mod.pvpparticles.classes.SiroQUtils;
 import work.siro.mod.pvpparticles.classes.TrailEffect;
 import work.siro.mod.pvpparticles.command.CommandPvPParticles;
-import net.minecraftforge.event.task.EntityJoinWorldTask;
 
 @Mod(modid = PvPParticles.MODID, version = PvPParticles.VERSION)
 public class PvPParticles
